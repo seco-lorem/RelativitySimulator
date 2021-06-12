@@ -1,0 +1,19 @@
+public class ReferenceFrame
+{
+   // Properties
+   Space s;
+   int velocity;
+   
+   // Constructor
+   public ReferenceFrame(Space space, int v)
+   {
+      s = space;
+      velocity = v;
+   }
+   
+   // Methods
+   public void lorentz()
+   {
+      s.lorentz(velocity);
+   }
+}

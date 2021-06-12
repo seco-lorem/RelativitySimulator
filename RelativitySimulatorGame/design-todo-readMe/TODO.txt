@@ -1,0 +1,9 @@
+-Finish allmethods and classes
+-Think about endGame screen / how to see the same game from others' perspectives
+-Think about menu
+
+-Fix: When user creates events for all creatures, it is supposed to create all according to their t variables. Now it creates according to stationary time.
+-If lorentz does not end up prohibiting creatures to pass the speed of light...
+-Fix: Controller does not work for keyboard
+-Make a replay function that sows x seconds such that x is the size factor of the array that causes ArrayOutOfBoundsException after x seconds.
+-Change White and Black in the color array.
