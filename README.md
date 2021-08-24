@@ -7,6 +7,7 @@ Using the\
 ```  ...\Special Relativity\Lorentz\classes>java Lorentz```
  on windows terminal, will open two windows stacked on top of each other, which show identical universes viewed by two reference frames with a constant velocity difference. Use your mouse to draw a movement on vertical axis: time, horisontal axis: location. Observe time and length contramption, and impassability of the speed of light(45 degree angle).\
 Simply closing one of the two windows will stop the program.
+![alt text](https://github.com/seco-lorem/RelativitySimulator/blob/main/RelativitySimulatorGame/design-todo-readMe/Demo.png)
 # Second folder, RelativitySimulatorGame:
   Lets the user control the speed of a reference frame and view a fixed portion of the space containing 3 randomly created creatures from that frame of reference. Uses the same lorentz algorithm with the other one.\
   I had further feature intentions but haven't really worked on it for 1 year and am not thinking of. These features include:\
