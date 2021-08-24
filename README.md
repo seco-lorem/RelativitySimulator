@@ -24,3 +24,5 @@ Do not directly double click the jar file, instead run in an environment where y
 in the according directiory on a terminal. It will take 1 second for the creatures to render.
 \nUse left and right buttons to controll the speed of the reference frame. Note that I've fixed the portion of the universe around the objects so that the player does not get lost in high speeds. But you can still observe the time and length contramption.\
 Use ```esc```, to stop the game and analyse the log on terminal.
+#### Design
+![Design](https://github.com/seco-lorem/RelativitySimulator/blob/main/RelativitySimulatorGame/design-todo-readMe/Design.png)
